@@ -7,5 +7,5 @@
   <a href="https://octo-ring.com/p/ariwish/random">roll the dice</a>
   <a href="https://octo-ring.com/p/ariwish/next">---></a>
   <br>
-  <a href="https://octo-ring.com/">[BIG SHOT]</a>
+  <a href="https://octo-ring.com/">[[BIG SHOT]]</a>
 </div>
